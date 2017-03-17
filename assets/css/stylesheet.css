@@ -1,0 +1,17 @@
+body {
+	/*background-image:url(../images/champagne-cork-1350404_1920.jpg);*/
+	background-image:url(../images/background-1.jpg);
+}
+
+.panel-primary > .panel-heading {
+	background-color: #6d1515!important;
+}
+.main-image {
+	float:left;
+	position: relative;
+	width: auto;
+	height: 200px;
+}
+h2 {
+	text-align: center;
+}
